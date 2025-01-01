@@ -12,7 +12,7 @@
 
 `视频教程地址`：[https://www.bilibili.com/video/BV1Wh4y1h7zx/?share_source=copy_web&vd_source=812ce232a8b2d63194eb8e2f0d3d90de](https://www.bilibili.com/video/BV1Wh4y1h7zx/?share_source=copy_web&vd_source=812ce232a8b2d63194eb8e2f0d3d90de)
 
-`github开源地址`：[https://github.com/jhzhou002/DM_screen_web](https://github.com/jhzhou002/DM_screen_web)
+`github开源地址`：[https://github.com/jhzhou002/OpenRank/tree/main/%E5%A4%8D%E8%B5%9B](https://github.com/jhzhou002/OpenRank/tree/main/%E5%A4%8D%E8%B5%9B)
 
 ### 软件架构
 
